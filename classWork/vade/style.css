@@ -1,0 +1,45 @@
+.mainBodyTwo {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.mainBodyTwo_body {
+    padding: 100px 200px;
+}
+.mainBodyTwo_body_titleTop {
+    font-family: 'Roboto';
+    font-size: 18px;
+    color: #393737;
+}
+.mainBodyTwo_body_frameMain {
+    display: flex;
+    justify-content: space-between;
+}
+.mainBodyTwo_body_frameMain img {
+    width: 333px;
+    height: 273px;
+}
+.mainBodyTwo_body_frameMain div {
+    width: 333px;
+    height: 432px;
+}
+.mainBodyTwo_body_frameMain_frame_subTitle {
+    font-family: Roboto;
+    font-size: 18px;
+    color: #393737;
+    margin-left: 20px;
+}
+.mainBodyTwo_body_frameMain_frame1_data {
+    font-family: Roboto;
+    color: #B5B7C7;
+    font-size: 15px;
+    margin: 0 0 17px 20px;
+}
+.buttonBottom {
+    width: 166px;
+    height: 60px;
+    margin-top: 110px;
+    border: 1px solid #70748C;
+    border-radius: 4px;
+    font-family: Roboto;
+    font-size: 15px;
+}
